@@ -1,0 +1,5 @@
+# Custom blocklist to include in the main list.
+
+ad.bullguard.com
+adv.bullguard.com
+deals.bullguard.com
