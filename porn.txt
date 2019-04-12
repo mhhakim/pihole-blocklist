@@ -1,6 +1,6 @@
 # Name: Pihole Blocklist
 # URL: https://github.com/mhhakim/pihole-blocklist
-# Last update: 11 April, 2019
+# Last update: 12 April, 2019
 
 pornhub.com
 xvideos.com
