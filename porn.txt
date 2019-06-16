@@ -1,6 +1,6 @@
 # Name: Pihole Blocklist
 # URL: https://github.com/mhhakim/pihole-blocklist
-# Last update: 15 June, 2019
+# Last update: 16 June, 2019
 
 pornhub.com
 livejasmin.com
