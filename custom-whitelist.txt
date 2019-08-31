@@ -33,7 +33,6 @@ chromefeedcontentsuggestions-pa.googleapis.com
 www.4chan.org
 ipinfo.io
 www.pinterest.com
-analytics.google.com
 reddit.com
 emoji.redditmedia.com
 styles.redditmedia.com
