@@ -52,3 +52,4 @@ oauth.reddit.com
 e.reddit.com
 s.reddit.com
 strapi.reddit.com
+s.ytimg.com
