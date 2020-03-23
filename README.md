@@ -24,7 +24,6 @@
 #### The list.txt includes:
 * https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
 * https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-* https://raw.githubusercontent.com/mmotti/mmotti-host-file/master/hosts
 * https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts
 * https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
 * https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
