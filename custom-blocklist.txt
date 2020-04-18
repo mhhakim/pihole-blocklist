@@ -1,5 +1,3 @@
-# Custom blocklist to include in the main list.
-
 ad.bullguard.com
 adv.bullguard.com
 deals.bullguard.com
@@ -62,3 +60,12 @@ data.mistat.india.xiaomi.com
 litestatis.facemojikeyboard.com
 tracking.india.miui.com
 t.appsflyersdk.com
+0pbxmo-useast2a.xzcs3zlph.com
+ads1.green-red.com
+content.green-red.com
+display.green-red.com
+gjapplog.ucweb.com
+improving.duckduckgo.com
+indigolbs.dinoyy.xyz
+log.xzcs3zlph.com
+xjp-jmacs.m.taobao.com
