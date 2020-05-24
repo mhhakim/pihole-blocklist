@@ -43,8 +43,6 @@ jdata.vidmatefilm.org
 res.apk.vidmate.net
 vapi.apk.vidmate.net
 videomate.mobi
-api.v-mate.mobi
-s.ytimg.com
 news-in.op-mobile.opera.com
 apk-dym.v-mate.mobi
 musicapi.apk.v-mate.mobi
