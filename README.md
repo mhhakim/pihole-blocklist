@@ -25,12 +25,9 @@
 * https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
 * https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 * https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts
-* https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
-* https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
-* https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive-extended.txt
-* https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive.txt
+* https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+* https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
 * http://sysctl.org/cameleon/hosts
-* https://hosts-file.net/ad_servers.txt
 * https://justdomains.github.io/blocklists/lists/easylist-justdomains.txt
 * https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt
 * https://justdomains.github.io/blocklists/lists/adguarddns-justdomains.txt
