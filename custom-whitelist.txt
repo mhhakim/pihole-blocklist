@@ -76,3 +76,5 @@ www.linkedin.com
 www.zerohedge.com
 upload.twitter.com
 mobile.twitter.com
+g.whatsapp.net
+0.tcp.ngrok.io
