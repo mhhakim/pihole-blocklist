@@ -27,6 +27,14 @@ external-lhr10-1.xx.fbcdn.net
 external-lhr2-1.xx.fbcdn.net
 api.facebook.com
 star.facebook.com
+star-mini.c10r.facebook.com
+star.c10r.facebook.com
+z-m.c10r.facebook.com
+lm.facebook.com
+graph.accountkit.com
+gstaticadssl.l.google.com
+mqtt.c10r.facebook.com
+b-www.facebook.com
 instagram.com
 www.reddit.com
 thepiratebay.org
