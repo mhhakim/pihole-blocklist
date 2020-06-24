@@ -36,6 +36,8 @@ gstaticadssl.l.google.com
 mqtt.c10r.facebook.com
 b-www.facebook.com
 instagram.com
+www.instagram.com
+g.whatsapp.net
 www.reddit.com
 thepiratebay.org
 twitter.com
@@ -44,9 +46,13 @@ www.redditstatic.com
 pbs.twimg.com
 abs.twimg.com
 t.co
-at.alicdn.com
+upload.twitter.com
+mobile.twitter.com
 api.twitter.com
+at.alicdn.com
 chromefeedcontentsuggestions-pa.googleapis.com
+translate.google.com
+redirector.gvt1.com
 www.4chan.org
 ipinfo.io
 www.pinterest.com
@@ -55,6 +61,7 @@ emoji.redditmedia.com
 styles.redditmedia.com
 b.thumbs.redditmedia.com
 a.thumbs.redditmedia.com
+reddit.map.fastly.net
 preview.redd.it
 www.redditmedia.com
 external-preview.redd.it
@@ -80,10 +87,7 @@ secure.gravatar.com
 tools.pingdom.com
 www.gravatar.com
 www.hidemyass.com
-www.instagram.com
 www.linkedin.com
 www.zerohedge.com
-upload.twitter.com
-mobile.twitter.com
-g.whatsapp.net
 0.tcp.ngrok.io
+info.cloudflare.com	
