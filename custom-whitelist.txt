@@ -39,6 +39,7 @@ instagram.com
 www.instagram.com
 g.whatsapp.net
 www.reddit.com
+reddit.map.fastly.net
 thepiratebay.org
 twitter.com
 clients1.google.com
