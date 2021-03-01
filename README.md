@@ -14,7 +14,7 @@
   <code> https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/porn.txt </code>
   
 ### Warning
-  I included a few aggressive lists which can impact your regular internet browsing experience. I suggest you check the log query & whitelist the queries which case problem on regular browsing. All the facebook & twitter domains are blocked by default.
+  I included a few aggressive lists which can impact your regular internet browsing experience. I suggest you check the log query & whitelist the queries which case problem on regular browsing.
   
   
 #### The porn.txt includes:
