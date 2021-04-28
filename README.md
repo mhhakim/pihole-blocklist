@@ -1,17 +1,19 @@
 # Pihole Blocklist
-<p>Ok, what is it? It's a list of domains/hosts which is involved in showing ads, track, spam, malware etc. Personally, I am using this list in pi-hole(https://pi-hole.net/) which is running on my Raspberry Pi 3 B+.</p>
-<p>I made a program which runs every day once on my server. It collects data from a bunch of lists,  made them pi-hole ready(clean domain/host), make them unique & combine them into a single list and commit the list into this repository.</p>
-<p>It's a lightweight list. So, it will take fewer resources. As I also block porn websites, a porn website/host list added too.</p>
+Ok, what is it? It's a list of domains/hosts which is involved in showing ads, track, spam, malware etc. Personally, I am using this list in pi-hole(https://pi-hole.net/) which is running on my Raspberry Pi 3 B+.
 
-<p>I tried to include popular & effective lists.</p>
-<p>The porn list was already pi-hole ready but the domain was non www version. As a result, example.com blocked but www.example.com still accessible. So, I also include a www version of every domain in this list.</p>
+I made a program which runs every day once on my server. It collects data from a bunch of lists,  made them pi-hole ready(clean domain/host), make them unique & combine them into a single list and commit the list into this repository.
+
+It's a lightweight list. So, it will take fewer resources. As I also block porn websites, a porn website/host list added too.
+
+I tried to include popular & effective lists.
+The porn list was already pi-hole ready but the domain was non www version. As a result, example.com blocked but www.example.com still accessible. So, I also include a www version of every domain in this list.
 
 ### How to use?
-  Just add the following list to your pi-hole.
+Just add the following list to your pi-hole.
 
-  <code> https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/list.txt </code>
+    https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/list.txt
   
-  <code> https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/porn.txt </code>
+    https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/porn.txt
   
 ### Warning
   I included a few aggressive lists which can impact your regular internet browsing experience. I suggest you check the log query & whitelist the queries which case problem on regular browsing.
