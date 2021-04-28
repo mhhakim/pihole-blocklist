@@ -1,5 +1,5 @@
 # Pihole Blocklist
-### Note: I am only responsible for the websites that are in `custom-whitelist.txt`, `custom-porn-whitelist.txt`, `custom-porn-blocklist.txt`, and `custom-blocklist.txt`. All other ones are grabbed from other lists.
+### Note: I am only responsible for the websites that are in `custom-whitelist.txt`, `custom-porn-whitelist.txt`, `custom-porn-blocklist.txt`, and `custom-blocklist.txt`. All other ones are grabbed from other lists (see below for details).
 
 Ok, what is it? It's a list of domains/hosts which is involved in showing ads, track, spam, malware etc. Personally, I am using this list in pi-hole(https://pi-hole.net/) which is running on my Raspberry Pi 3 B+.
 
