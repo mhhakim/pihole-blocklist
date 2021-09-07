@@ -1,6 +1,6 @@
 # Name: Pihole Blocklist
 # URL: https://github.com/mhhakim/pihole-blocklist
-# Last update: 06 September, 2021
+# Last update: 07 September, 2021
 
 
 007milf.com
