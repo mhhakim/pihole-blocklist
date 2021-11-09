@@ -56,6 +56,5 @@ Just add the following lists to your pi-hole.
 * https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/mvps-hosts-file.txt
 * https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/dan-pollock-someonewhocares-org.txt
 * https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/tyzbit.txt
-* https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 * https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 * https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
