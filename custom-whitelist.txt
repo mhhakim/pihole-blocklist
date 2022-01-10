@@ -92,3 +92,11 @@ www.linkedin.com
 www.zerohedge.com
 0.tcp.ngrok.io
 info.cloudflare.com	
+amzn.to
+m.media-amazon.com
+fbcdn.net
+login.live.com
+daraz.com.bd
+update.code.visualstudio.com
+gravatar.com
+developer.twitter.com
