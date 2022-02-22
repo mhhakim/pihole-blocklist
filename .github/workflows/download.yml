@@ -1,0 +1,38 @@
+name: Download porn.txt
+
+on:
+  push:
+    paths:
+      # Run workflow on every push
+      # only if a file within the specified paths has been changed:
+      - '**'
+  schedule:
+    - cron: '0 1 * * *'
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Download porn.txt
+
+    # This job runs on Linux
+    runs-on: ubuntu-latest
+    steps:
+      # Required to access files of this repository
+      - uses: actions/checkout@v2
+      - name: Download porn.txt from blocklistproject/Lists
+        uses: carlosperate/download-file-action@v1
+        with:
+          file-url: 'https://raw.githubusercontent.com/blocklistproject/Lists/master/porn.txt'
+      - name: Check the file is there
+        run: ls -l porn.txt
+
+      - name: commit, merge and push the changes
+        uses: matheusalbino/git-commit@v1.1.0
+        with:
+          #user-name: Equal
+          #user-email: equal@example.com
+          message: This a commit from Github Actions
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master # main is default value
+
