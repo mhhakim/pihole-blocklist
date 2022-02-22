@@ -5,7 +5,7 @@ Ok, what is it? It's a list of domains/hosts which is involved in showing ads, t
 
 I made a program which runs every day once on my server. It collects data from a bunch of lists,  made them pi-hole ready(clean domain/host), make them unique & combine them into a single list and commit the list into this repository.
 
-It's a lightweight list. So, it will take fewer resources. As I also block porn websites, a porn website/host list added too. The porn blocklist is updated/checked regularly every night at 1am.
+It's a lightweight list. So, it will take fewer resources. As I also block porn websites, a porn website/host list added too.
 
 I tried to include popular & effective lists.
 The porn list was already pi-hole ready but the domain was non www version. As a result, example.com blocked but www.example.com still accessible. So, I also include a www version of every domain in this list.
@@ -21,7 +21,7 @@ Just add the following lists to your pi-hole.
   
   
 #### The porn.txt includes:
-* https://raw.githubusercontent.com/blocklistproject/Lists/master/porn.txt
+* https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
 
 
 #### The list.txt includes:
