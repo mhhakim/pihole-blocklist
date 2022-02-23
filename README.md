@@ -21,7 +21,8 @@ Just add the following lists to your pi-hole.
   
   
 #### The porn.txt includes:
-* https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
+* https://dbl.oisd.nl/nsfw
+* https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts
 
 
 #### The list.txt includes:
