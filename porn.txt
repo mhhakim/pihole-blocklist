@@ -1,6 +1,6 @@
 # Name: Pihole Blocklist
 # URL: https://github.com/mhhakim/pihole-blocklist
-# Last update: 07 May, 2022
+# Last update: 08 May, 2022
 
 
 0-132.net.daraz.com
